@@ -26,5 +26,6 @@ Hapus terlebih dahulu jika stbmu
   copy paste di terminal script berikut<br>
   ```
   rm -f /usr/bin/hgled && wget -O /usr/bin/hgled https://raw.githubusercontent.com/syaibar/menghilink/main/bled-hgled/hgled && chmod +x /usr/bin/hgled && /usr/bin/hgled -r
+
   ```
 <br><br>
